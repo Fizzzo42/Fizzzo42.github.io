@@ -1,11 +1,26 @@
 ---
 layout: page
-title: About
+title: Özhan Kaya
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## About Me
+I'm Özhan Kaya, currently 
+<script>
+	var year = new Date();
+	document.write(year.getFullYear()-1991);
+</script> 
+years old.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+## Skills
+...
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+## CV
+...
+
+## Contact
+E-Mail: [{{  site.email  }}][mail] (Best way)  
+Github: [{{ site.github_username }}][gh]
+
+[mail]:   		mailto:{{ site.email }}
+[gh]: 			http://github.com/{{ site.github_username }}
