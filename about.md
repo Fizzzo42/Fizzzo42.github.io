@@ -14,6 +14,7 @@ years old.
 
 ### Skills
 
+{:.table-striped}
 | Skill Level   | Skill                          | Personal opinion                             | Reference                          |
 |:-------------:|:-------------------------------|:---------------------------------------------|:-----------------------------------|
 | +++           | Java                           | Nice for casual solutions and group projects |[TerminalFahrplan][terminalfahrplan]|
